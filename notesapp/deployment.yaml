@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo-app
-        image: sumeetkulkarni/my-note-app
+        image: desu1/my-note-app1:microdegree
         ports: 
         - containerPort: 8000
